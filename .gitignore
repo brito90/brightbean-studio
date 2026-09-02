@@ -220,3 +220,4 @@ theme/static/css/dist/
 /seed_ad_calendar.py
 .venv_old
 .vercel
+.env*
